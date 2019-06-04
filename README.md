@@ -132,3 +132,7 @@ HARRY POTTER        4 Privet Drive, Little Whinging, Surrey
 You can change behavior of these headers by providing custom HeaderFuncs.
 
 [![asciicast](https://asciinema.org/a/249879.svg)](https://asciinema.org/a/249879)
+
+# Contribution
+
+All contributions are welcome. Raise an Issue or a Pull Request

@@ -26,7 +26,7 @@ func main() {
 	// whatever data you have
 	persons := []Person{
 		{"Kasun", 24, "Earth"},
-		{"Jhon Doe", 34, "Somewhere on earth"},
+		{"John Doe", 34, "Somewhere on earth"},
 		{"Spongebob", 30, "Under Sea"},
 		{"Harry Potter", 30, "4 Privet Drive, Little Whinging, Surrey"},
 	}

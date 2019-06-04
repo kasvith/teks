@@ -10,6 +10,7 @@ import (
 	"github.com/kasvith/teks"
 )
 
+// Person represents a human being or whatever
 type Person struct {
 	Name    string
 	Age     int

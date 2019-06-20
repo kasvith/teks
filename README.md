@@ -1,6 +1,6 @@
 # teks : awesome outputs for your commands
 
-[![Build Status](https://travis-ci.com/kasvith/teks.svg?branch=master)](https://travis-ci.com/kasvith/teks) [![Go Report Card](https://goreportcard.com/badge/github.com/kasvith/teks)](https://goreportcard.com/report/github.com/kasvith/teks)
+[![Build Status](https://travis-ci.com/kasvith/teks.svg?branch=master)](https://travis-ci.com/kasvith/teks) [![Go Report Card](https://goreportcard.com/badge/github.com/kasvith/teks)](https://goreportcard.com/report/github.com/kasvith/teks) [![GoDoc](https://godoc.org/github.com/kasvith/teks?status.svg)](https://godoc.org/github.com/kasvith/teks)
 
 **teks** brings painless output formating for your commands. Docker/Kubernetes provides custom formatting via `go-templates`.
 **teks** brings the power into any application providing a smooth intergration as a library. 

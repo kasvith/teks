@@ -69,7 +69,7 @@ func main() {
 
 	// create a renderer function to match signature defined in teks.Renderer
 	renderer := func(w io.Writer, t *template.Template) error {
-		for _, p := range persons {examples git:(master) ✗ 
+		for _, p := range persons {
 			if err := t.Execute(w, p); err != nil {
 				return err
 			}
